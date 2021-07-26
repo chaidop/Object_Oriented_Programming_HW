@@ -1,6 +1,4 @@
 Ονοματεπώνυμο:ΠΟΥΛΙΑΝΟΥ ΧΑΙΔΩ
-ΑΕΜ:2613
-E-mail:    cpoulianou@uth.gr
 
 ------------------------------------------------------------------------------------------
 
@@ -19,7 +17,7 @@ E-mail:    cpoulianou@uth.gr
         Document, NodeList, Element, SAXException
 
 	-Το εκτελέσιμο αρχείο βρίσκεται στο:
-        HW3_Poulianou_Chaido_2613/ce326.hw3/dist/ce326.hw3.jar
+        HW3/ce326.hw3/dist/ce326.hw3.jar
 
   
 ------------------------------------------------------------------------------------------
@@ -34,9 +32,9 @@ E-mail:    cpoulianou@uth.gr
   Σε όλες τις παραπάνω περιπτώσεις παραθέστε αναλυτικά τις εντολές μεταγλώττισης και εκτέλεσης του κώδικα σας.
 
 -Με ant script
-Στο φάκελο που βρίσκεται το αρχείο build.xml, δηλαδή στο path HW3_Poulianou_Chaido_2613/ce326.hw3/
+Στο φάκελο που βρίσκεται το αρχείο build.xml, δηλαδή στο path HW3/ce326.hw3/
 Μεταγλώτιση γράφοντας ant compile
 Δημιουργία jar αρχείου γράφοντας ant jar
 Εκτελεση γραφοντας ant run
 ή και χωρίς ant γρλαφοντας 
-java -jar "HW3_Poulianou_Chaido_2613/ce326.hw3/dist/ce326.hw3.jar" 
+java -jar "HW3/ce326.hw3/dist/ce326.hw3.jar" 
